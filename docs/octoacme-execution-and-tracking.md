@@ -23,6 +23,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+For the full QA and security gate criteria, see the [Security & QA Gating Checklist](./octoacme-security-qa-gating-checklist.md). For Definition of Ready/Done and role handoff checklists, see [Definition of Ready & Done](./octoacme-definition-of-ready-done.md). The [QA / Tester and Security Champion roles](./octoacme-roles-and-personas.md) own these gates.
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
