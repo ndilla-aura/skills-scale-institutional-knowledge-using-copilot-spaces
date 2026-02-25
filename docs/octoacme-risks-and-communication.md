@@ -40,3 +40,5 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+Role ownership for risk and incident communication is defined in the [Roles & Personas interaction map](./octoacme-roles-and-personas.md#interaction-map). The **Security Champion** leads security incident triage; the **Project Manager** owns stakeholder communication and risk register updates. The **Data Analyst** provides metrics context for incident post-mortems.

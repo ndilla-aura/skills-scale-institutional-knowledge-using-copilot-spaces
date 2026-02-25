@@ -15,6 +15,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+For the full pre-release security and QA gate checklist, see [Security & QA Gating Checklist](./octoacme-security-qa-gating-checklist.md). The [Security Champion and QA / Tester roles](./octoacme-roles-and-personas.md) own the sign-off steps in that checklist.
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
